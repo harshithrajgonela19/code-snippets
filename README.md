@@ -1,5 +1,5 @@
-@@ -1 +1,13 @@
-# code-snippets
+  @@ -1 +1,13 @@
+  # code-snippets
 + # Code Snippet Library
 + ## 🐍 Python Snippets
 + - [Loops in Python](loops.py)
