@@ -10,4 +10,4 @@
 ## 🌐 JavaScript Snippets
 - [DOM Manipulation](dom-manipulation.js)
 - [Fetch API Example](fetchAPI.js)
-Example:
++Example:
